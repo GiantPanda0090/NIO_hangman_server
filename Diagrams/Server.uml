@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Server</OriginalElement>
+  <nodes>
+    <node x="301.5" y="372.0">Server.Server</node>
+    <node x="386.0" y="0.0">Server.Hanger</node>
+    <node x="0.0" y="72.0">Server.Stop</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Server.Server" target="Server.Hanger">
+      <point x="50.0" y="-64.5" />
+      <point x="451.5" y="347.0" />
+      <point x="620.0" y="347.0" />
+      <point x="0.0" y="161.0" />
+    </edge>
+    <edge source="Server.Server" target="Server.Stop">
+      <point x="-50.0" y="-64.5" />
+      <point x="351.5" y="347.0" />
+      <point x="183.0" y="347.0" />
+      <point x="0.0" y="89.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5697940503432495" x="426.99999999999994" y="250.5" />
+  <SelectedNodes>
+    <node>Server.Server</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

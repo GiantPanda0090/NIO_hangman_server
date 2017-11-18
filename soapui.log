@@ -1,0 +1,7 @@
+2017-11-09 10:35:49,585 WARN  [DefaultSoapUICore] Missing folder [/home/lqschool/ext] for external libraries
+2017-11-09 10:35:49,892 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/lqschool/soapui-settings.xml]
+2017-11-09 10:35:50,494 INFO  [WorkspaceImpl] Loading workspace from [/home/lqschool/intellij-soapui-workspace.xml]
+2017-11-09 11:14:45,795 INFO  [WorkspaceImpl] Saved workspace to [/home/lqschool/intellij-soapui-workspace.xml]
+2017-11-09 11:14:45,800 INFO  [DefaultSoapUICore] Settings saved to [/home/lqschool/soapui-settings.xml]
+2017-11-09 11:14:58,517 INFO  [WorkspaceImpl] Saved workspace to [/home/lqschool/intellij-soapui-workspace.xml]
+2017-11-09 11:14:58,519 INFO  [DefaultSoapUICore] Settings saved to [/home/lqschool/soapui-settings.xml]
